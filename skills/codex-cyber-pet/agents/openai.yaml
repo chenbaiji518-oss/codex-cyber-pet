@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex赛博萌宠养成计划"
+  short_description: "从宠物照片生成、安装并修复 Codex v2 动画萌宠"
+  default_prompt: "使用 $codex-cyber-pet 根据我的宠物照片制作并安装 Codex 赛博萌宠。"
